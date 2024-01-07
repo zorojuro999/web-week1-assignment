@@ -25,3 +25,139 @@
   padding-top: 0px;
   margin-top: 0px;
 }
+
+/* section 2 related styles */
+
+.section-2{
+  width: 800px;
+  height: 900px;
+  margin: 100px 350px 0px 350px;
+  font-family: 'Inter', sans-serif;
+  text-align: center;
+}
+
+.s2-heading{
+  color: #F00;
+  font-size: 88px;
+  font-weight: 700;
+  padding-bottom: 0px;
+  margin-bottom: 5px;
+}
+
+.s2-line2{
+  color: #F00;
+  font-size: 24px;
+  font-weight: 500;
+  padding-bottom: 0;
+  margin-bottom: 10px;
+}
+
+.s2-line3{
+  color: #070211;
+  font-size: 48px;
+  font-weight: 700;
+  padding-top: 0;
+  margin-top: 5px;
+}
+
+/* section 3 related styles */
+
+.section-3{
+  background-image: url("../resources/Vectorrr.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 1320px;
+  height: 600px;
+  margin: 0px auto;
+  text-align: left;
+  color: white;
+  display: flex;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.s2-title{
+  font-size: 64px;
+  font-weight: 900;
+  letter-spacing: 7.04px;
+  margin-left: 125px;
+  padding-top: 70px;
+  margin-bottom: 30px;
+  font-family: 'Merriweather', serif;
+}
+
+.s2-para{
+  font-family: 'Inter', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  margin-left: 125px;
+}
+
+.join{
+  font-family: 'Inter', sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-left: 160px;
+  padding-top: 50px;
+}
+
+.section-img{
+  width: 319.83px;
+  height: 464.662px;
+  margin: 70px 140px;
+/* add gradiet later */
+}
+
+/* section 4 related styles */
+
+.section-4{
+  background-image: linear-gradient( #f2c0cec4, WHITE );
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 1320px;
+  height: 500px;
+  margin: 0px auto;
+  text-align: center;
+  margin-top: 120px;
+  border: none;
+  border-radius: 20px;
+}
+
+#place{
+  padding-top: 100px;
+  color: #070211;
+  font-family: 'Inter', sans-serif;
+  font-size: 32px;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+#date{
+  color: #070211;
+  font-family: 'Inter', sans-serif;
+  font-size: 32px;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+#time{
+  color: #070211;
+  font-family: 'Inter', sans-serif;
+  font-size: 32px;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+.s4-h3{
+  color: red;
+}
+.section-4 > button{
+  color: #FFF;
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  border-radius: 8px;
+  background: #F00;
+  padding: 15px 32px;
+  margin-top: 50px;
+}
