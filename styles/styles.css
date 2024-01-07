@@ -1,0 +1,27 @@
+/* section 1 related styles */
+
+.section-1{
+  background-image: url("../resources/Banner\ Image.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 1320px;
+  height: 600px;
+  margin: 50px auto;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: black;
+}
+
+.s1-wish{
+  padding-top: 170px ;  
+  font-size: 32px;
+  font-weight: 400;
+  padding-bottom: 0px;
+  margin-bottom: 5px;
+}
+.s1-celebrate{
+  font-size: 72px;
+  font-weight: 900;
+  padding-top: 0px;
+  margin-top: 0px;
+}
