@@ -289,6 +289,18 @@
     background-repeat: no-repeat;
     background-position: bottom , top right ;
   }
+  
+  .box{
+    width: 620px;
+    height: 600px;
+    margin-right: 200px;
+    margin-top: 58px;
+  }
+  .sale{
+    size: 200px;
+    margin-bottom: 300px;
+    margin-right: 180px;
+    }
 
 
 /* section 7 related styles */
